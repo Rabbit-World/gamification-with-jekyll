@@ -4,8 +4,8 @@
 # Site settings
 title: Euro-Agency with Gamification
 description: A Jekyll template with integrated gamification features
-baseurl: ""
-url: ""
+baseurl: "/gamification-system"
+url: "https://rabbit-world.github.io/gamification-with-jekyll"
 
 # Build settings
 markdown: kramdown
